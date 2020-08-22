@@ -1,3 +1,5 @@
 Hello，GIt！
 
 now, there are some changes...
+
+奇怪的冲突
